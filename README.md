@@ -1,4 +1,4 @@
-# bioinfo_PSM_nanotech_thesis
+# nanotech_thesis
 [jac_enzo_thesis.docx](https://github.com/user-attachments/files/22586307/jac_enzo_thesis.docx)
 
 # Characterizing the Bond Angle Distribution of DNA Origami Nanoswitches
